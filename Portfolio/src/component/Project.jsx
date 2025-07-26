@@ -25,8 +25,8 @@ const Projects = () => {
           title: 'Portfolio',
           desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
           image: Screen,
-          live: "https://shimmering-blini-41560d.netlify.app/",
-          github: "https://github.com/Ajit2213/Portfolio"
+          live: "https://portfolio-b9a6.onrender.com",
+          github: "https://github.com/GoluGupta7217/Portfolio/tree/main/Portfolio"
         },
        
        
