@@ -1,6 +1,6 @@
 import React from "react";
 import resume from "../assets/resume.pdf"
-import resume1 from "../assets/AjitResume.pdf.pdf"
+import resume1 from "../assets/Golu_Resume.pdf"
 // import ajit from "../assets/ajit.png"
 import golu from "../assets/golu.png";
 const Hero=()=>{
